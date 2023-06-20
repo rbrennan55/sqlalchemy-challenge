@@ -2,8 +2,12 @@
 
 ## Solution Files Submitted:
 ### Part 1
-- /sqlalchemy-challenge
-- /data/
+- /SurfsUp/app.py
+- /SurfsUp/climate_starter.ipynb
+- /data/hawaii.sqlite
+- /data/hawaii_measurements.csv
+- /data/hawaii_stations.csv
+- ReadMe (This File)
 
 ### Part 2
 
