@@ -6,6 +6,8 @@
 - /data/hawaii.sqlite
 - /data/hawaii_measurements.csv
 - /data/hawaii_stations.csv
+- /images/precipitation.jpg
+- /images/station-histogram.jpg
 - ReadMe (This File)
 
 ## Instructions
