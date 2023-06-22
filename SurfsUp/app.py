@@ -14,7 +14,7 @@
 
 # Save references to each table
 
-
+ 
 # Create our session (link) from Python to the DB
 
 
@@ -28,3 +28,13 @@
 #################################################
 # Flask Routes
 #################################################
+# /
+# /api/v1.0/precipitation
+
+# /api/v1.0/stations
+
+# /api/v1.0/tobs
+
+# /api/v1.0/<start>
+
+# /api/v1.0/<start>/<end>
