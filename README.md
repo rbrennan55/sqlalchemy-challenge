@@ -1,8 +1,8 @@
 # sqlalchemy-challenge
 
 ## Solution Files Submitted:
-- /SurfsUp/app.py
 - /SurfsUp/climate_starter.ipynb
+- /SurfsUp/app.py
 - /data/hawaii.sqlite
 - /data/hawaii_measurements.csv
 - /data/hawaii_stations.csv
