@@ -40,7 +40,7 @@ app = Flask(__name__)
 def welcome():
     """List all available api routes."""
     return (
-        f"<img src='../images/Carleton Logo2.png'><br/>"
+        f"<img src='/static/images/Carleton Logo2.png'width='147' height='147'>"
         f"<h1>Challenge 10 - SQLALCHEMY</h1>"
         f"<p>Available Routes:</p>"
         f"<a href='/api/v1.0/precipitation'>/api/v1.0/precipitation</a><br/>"
@@ -48,8 +48,7 @@ def welcome():
         f"<a href='/api/v1.0/tobs'>/api/v1.0/tobs</a><br/>"
         f"<a href='/api/v1.0/<start>'>/api/v1.0/&#60;start&#62;</a><br/>"
         f"<a href='/api/v1.0/<start>/<end>'>/api/v1.0/&#60;start>\&#60;end&#62;</a><br/>"
-        
-        
+            
     )
 
 @app.route("/api/v1.0/precipitation")
