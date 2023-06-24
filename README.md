@@ -8,6 +8,7 @@
 - /data/hawaii_stations.csv
 - /images/precipitation.jpg
 - /images/station-histogram.jpg
+- /SurfsUp/static/images/Carleton Logo2.png
 - ReadMe (This File)
 
 ## Instructions
